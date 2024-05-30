@@ -1,0 +1,162 @@
+
+.cart{
+    margin: 2px;
+}
+body{
+    color: #5F374B;
+}
+
+.sevillana-regular {
+    font-family: "Sevillana", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.single_product{
+   height: 400px;
+}
+.clay{
+    color: brown;
+    border: 2px brown solid;
+}
+.clay:hover{
+    background-color: brown;
+    border: 2px brown solid;
+}
+.mar{
+    height: 10px;
+    background-color: pink;
+}
+.ate{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 5px;
+}
+
+.rat{
+    height: 550px;
+    width: 350px;
+}
+.art{
+    height: 300px;
+    width: 300px;
+    border: 2px solid blue;
+    box-shadow: 6px 4px 0px 0px;
+}
+.viewmore-button{
+    display: flex;
+    justify-content: center;
+}
+.cat1{
+    display: flex;
+    justify-content: space-around;
+}
+.raw{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    color: #EEE4B1;
+}
+.desc
+{
+    color: #5F374B ;
+}
+.pic{
+    height: 200px;
+}
+.feat{
+    background-image: linear-gradient(magenta,pink);
+    padding: 30px;
+    position: relative;
+    bottom: 60px;
+}
+
+.footer{
+    background-color: whitesmoke;
+}
+.shop-by-category{
+    background-color: whitesmoke;
+    
+    
+    
+}
+
+body{
+    background-color: whitesmoke;
+}
+footer{
+    background-color: white;
+    
+}
+.rah{
+    height: 100px;
+    width: 100px;
+}
+h1{
+    color: #5F374B;
+    
+}
+ul.list-group.list-group-flush {
+    background-color: white;
+    box-shadow: 3px 6px 0px 0px black;
+    padding: 5px;
+    border: 0.5px blue solid;
+    margin-bottom: 20px;
+}
+.conc{
+    margin: 20px;
+}
+.feat2{
+    padding: 30px;
+}
+.ppp{
+    color: black;
+}
+.nav-link{
+    text-decoration: none;
+    color: black;
+}
+.ddes{
+    color: black;
+}
+.rid{
+    height: 450px;
+
+}
+.dids{
+    height: 350px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+}
+a {
+    color: black;
+    
+    text-decoration: none;
+    background-color: transparent;
+}
+.nav-link:hover{
+    color: black;
+}
+.backtop{
+    display: inline;
+    position: fixed;
+    z-index: 10;
+    top: 600px;
+    right: 50px;
+}
+.card{
+    height: 350px;
+
+}
+.desci{
+    color: brown;
+}
+
+
